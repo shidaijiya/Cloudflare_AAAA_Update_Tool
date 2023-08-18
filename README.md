@@ -29,4 +29,4 @@ This is a tool that uses a Python script to update AAAA records via the Cloudfla
 Before running the script, you need to configure the following:
 
 1. Create an API token in your Cloudflare account and obtain the API key.
-2. Fill in your API key, zone ID, and
+2. Fill in your API key, zone ID, and AAAA record ID
